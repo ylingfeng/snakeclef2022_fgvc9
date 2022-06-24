@@ -1,4 +1,4 @@
-# 4th Place Solution for FGVC9 with PyTorch Implementation
+# 2th Place Solution for FGVC9 with PyTorch Implementation
 
 ## Device
 ViT-large on 8 x Titan XP (12GB)<br>
