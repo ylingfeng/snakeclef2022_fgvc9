@@ -139,9 +139,9 @@ python ensemble.py
 
 ## Results
 
-| model     | resolution | public  | private |                                          checkpoint                                          |
-| --------- | :--------: | :-----: | :-----: | :------------------------------------------------------------------------------------------: |
-| ViT-large |    384     | 0.87996 | 0.81997 | [Google](https://drive.google.com/file/d/1Rpax1cS5uE5rGYa2nuUyLdhZ1SuZa0pf/view?usp=sharing) |
-| ViT-large |    432     | 0.89173 | 0.83063 | [Google](https://drive.google.com/file/d/1vnNqoCa9723XgZ7Izw48VqppXMILPqz7/view?usp=sharing) |
-| ViT-huge  |    392     | 0.89449 | 0.84057 | [Google](https://drive.google.com/file/d/1EEd7KllY2Z0gvLzZaLyD0VLMHS4Fc0DH/view?usp=sharing) |
-| Ensemble  |     --     | 0.89822 | 0.84565 |                                              --                                              |
+| model     | resolution | public  | private |                                           checkpoint                                           |
+| --------- | :--------: | :-----: | :-----: | :--------------------------------------------------------------------------------------------: |
+| ViT-large |    384     | 0.87996 | 0.81997 | [[Google]](https://drive.google.com/file/d/1Rpax1cS5uE5rGYa2nuUyLdhZ1SuZa0pf/view?usp=sharing) |
+| ViT-large |    432     | 0.89173 | 0.83063 | [[Google]](https://drive.google.com/file/d/1vnNqoCa9723XgZ7Izw48VqppXMILPqz7/view?usp=sharing) |
+| ViT-huge  |    392     | 0.89449 | 0.84057 | [[Google]](https://drive.google.com/file/d/1EEd7KllY2Z0gvLzZaLyD0VLMHS4Fc0DH/view?usp=sharing) |
+| Ensemble  |     --     | 0.89822 | 0.84565 |                                              --                                                |
